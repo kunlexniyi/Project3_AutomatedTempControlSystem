@@ -91,7 +91,7 @@ Profibus where multiple instruments share one communication cable.
 [▶️ Click to run live simulation on Wokwi](https://wokwi.com/projects/464091661653294081)
 
 ## Video Demo
-[📹 Watch on LinkedIn](www.linkedin.com/in/adekunle-francis-adeniyi-miet-mnse-86a196198)
+[📹 Watch on LinkedIn](https://www.linkedin.com/posts/adekunle-francis-adeniyi-miet-mnse-86a196198_controlengineering-automation-arduino-ugcPost-7466240239737667584-Znmk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC5NElIBAzSFx3J1_C64gAVYtNlgFTGYhGU)
 
 ## Author
 **Adekunle Francis Adeniyi**
